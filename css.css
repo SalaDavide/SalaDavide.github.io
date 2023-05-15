@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    margin: 0px auto;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(215, 242, 250);
+}
+
+p{
+    color: blueviolet;
+}
